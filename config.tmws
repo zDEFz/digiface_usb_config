@@ -1,10 +1,10 @@
 <Windows>
 	<Frame0>
 		<Window>
-			<val e="WinPos.left" v="56"/>
-			<val e="WinPos.top" v="0"/>
-			<val e="WinPos.right" v="476"/>
-			<val e="WinPos.bottom" v="878"/>
+			<val e="WinPos.left" v="225"/>
+			<val e="WinPos.top" v="7"/>
+			<val e="WinPos.right" v="1104"/>
+			<val e="WinPos.bottom" v="885"/>
 			<val e="ScaleType" v="2"/>
 			<val e="FuncType" v="0"/>
 		</Window>
@@ -13,7 +13,7 @@
 			<val e="ScrollPosPb" v="0"/>
 			<val e="ScrollPosOut" v="0"/>
 			<val e="ScrollPosMon" v="0"/>
-			<val e="SplitPosition" v="153"/>
+			<val e="SplitPosition" v="383"/>
 			<val e="ScrollLocator01" v="11"/>
 			<val e="ScrollLocator02" v="22"/>
 			<val e="ScrollLocator11" v="11"/>
@@ -50,7 +50,7 @@
 			<val e="InputState26Snapshots" v="0,0,0,0,0,0,0,0"/>
 			<val e="InputState28" v="0"/>
 			<val e="InputState28Snapshots" v="0,0,0,0,0,0,0,0"/>
-			<val e="InputState30" v="8576"/>
+			<val e="InputState30" v="0"/>
 			<val e="InputState30Snapshots" v="0,0,0,0,0,0,0,0"/>
 			<val e="PlaybackState0" v="8576"/>
 			<val e="PlaybackState0Snapshots" v="0,0,0,0,0,0,0,0"/>
@@ -1180,7 +1180,7 @@
 			<val e="No Trim 30" v="0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,"/>
 			<val e="Mirror To 30" v="0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,"/>
 			<val e="Input Pad 30" v="0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,"/>
-			<val e="Hide State 30" v="-1.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,"/>
+			<val e="Hide State 30" v="1.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,"/>
 			<val e="Remote Controls 30" v="255.00,1023.00,1023.00,1023.00,1023.00,1023.00,1023.00,1023.00,1023.00,"/>
 			<val e="Layout OpenClose 30" v="0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,"/>
 			<val e="Stereo 31" v="1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,"/>
@@ -1204,7 +1204,7 @@
 			<val e="No Trim 31" v="0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,"/>
 			<val e="Mirror To 31" v="0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,"/>
 			<val e="Input Pad 31" v="0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,"/>
-			<val e="Hide State 31" v="-1.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,"/>
+			<val e="Hide State 31" v="1.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,"/>
 			<val e="Remote Controls 31" v="255.00,1023.00,1023.00,1023.00,1023.00,1023.00,1023.00,1023.00,1023.00,"/>
 			<val e="Layout OpenClose 31" v="0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,"/>
 		</Inputs>
