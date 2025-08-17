@@ -1,11 +1,11 @@
 <Windows>
 	<Frame0>
 		<Window>
-			<val e="WinPos.left" v="9"/>
-			<val e="WinPos.top" v="0"/>
-			<val e="WinPos.right" v="953"/>
-			<val e="WinPos.bottom" v="1155"/>
-			<val e="ScaleType" v="3"/>
+			<val e="WinPos.left" v="590"/>
+			<val e="WinPos.top" v="51"/>
+			<val e="WinPos.right" v="1534"/>
+			<val e="WinPos.bottom" v="929"/>
+			<val e="ScaleType" v="2"/>
 			<val e="FuncType" v="0"/>
 		</Window>
 		<Cache0>
@@ -13,7 +13,7 @@
 			<val e="ScrollPosPb" v="0"/>
 			<val e="ScrollPosOut" v="0"/>
 			<val e="ScrollPosMon" v="0"/>
-			<val e="SplitPosition" v="406"/>
+			<val e="SplitPosition" v="422"/>
 			<val e="ScrollLocator01" v="11"/>
 			<val e="ScrollLocator02" v="22"/>
 			<val e="ScrollLocator11" v="11"/>
@@ -120,7 +120,7 @@
 			<val e="OutputState30Snapshots" v="0,0,0,0,0,0,0,0"/>
 			<val e="OutputState32" v="139648"/>
 			<val e="OutputState32Snapshots" v="0,0,0,0,0,0,0,0"/>
-			<val e="RoutingDest" v="2"/>
+			<val e="RoutingDest" v="34"/>
 			<val e="RoutingView" v="0"/>
 			<val e="TrimMode" v="0"/>
 			<val e="LevelFX" v="0"/>
@@ -2684,6 +2684,14 @@
 			<val e="Slider 32 63" v="0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,"/>
 			<val e="Slider 32 66" v="0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,"/>
 			<val e="Slider 33 66" v="0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,"/>
+			<val e="Slider 34 00" v="-13.50,-300.00,-300.00,-300.00,-300.00,-300.00,-300.00,-300.00,-300.00,"/>
+			<val e="Slider 34 01" v="-13.50,-300.00,-300.00,-300.00,-300.00,-300.00,-300.00,-300.00,-300.00,"/>
+			<val e="Slider 34 08" v="-13.50,-300.00,-300.00,-300.00,-300.00,-300.00,-300.00,-300.00,-300.00,"/>
+			<val e="Slider 34 09" v="-13.50,-300.00,-300.00,-300.00,-300.00,-300.00,-300.00,-300.00,-300.00,"/>
+			<val e="Slider 34 16" v="-13.46,-300.00,-300.00,-300.00,-300.00,-300.00,-300.00,-300.00,-300.00,"/>
+			<val e="Slider 34 17" v="-13.46,-300.00,-300.00,-300.00,-300.00,-300.00,-300.00,-300.00,-300.00,"/>
+			<val e="Slider 34 24" v="-13.50,-300.00,-300.00,-300.00,-300.00,-300.00,-300.00,-300.00,-300.00,"/>
+			<val e="Slider 34 25" v="-13.50,-300.00,-300.00,-300.00,-300.00,-300.00,-300.00,-300.00,-300.00,"/>
 			<val e="Slider 34 32" v="0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,"/>
 			<val e="Slider 34 33" v="0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,"/>
 			<val e="Slider 34 34" v="0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,"/>
@@ -2718,8 +2726,8 @@
 			<val e="Slider 34 63" v="0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,"/>
 			<val e="Slider 34 64" v="0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,"/>
 			<val e="Slider 34 65" v="0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,"/>
-			<val e="Slider 34 66" v="-10.00,-10.00,-10.00,-10.00,-10.00,-10.00,-10.00,-10.00,-10.00,"/>
-			<val e="Slider 35 66" v="-10.00,-10.00,-10.00,-10.00,-10.00,-10.00,-10.00,-10.00,-10.00,"/>
+			<val e="Slider 34 66" v="-6.00,-10.00,-10.00,-10.00,-10.00,-10.00,-10.00,-10.00,-10.00,"/>
+			<val e="Slider 35 66" v="-6.00,-10.00,-10.00,-10.00,-10.00,-10.00,-10.00,-10.00,-10.00,"/>
 		</Mixer>
 		<MidiRemote0>
 			<val e="MidiRemoteInUse" v="1"/>
@@ -2727,7 +2735,7 @@
 			<val e="MidiOut" v=""/>
 			<val e="MidiSelBus" v="0"/>
 			<val e="MidiSelChannel" v="0"/>
-			<val e="MidiSelSubmix" v="2"/>
+			<val e="MidiSelSubmix" v="34"/>
 			<val e="MCSupport" v="1"/>
 			<val e="MCExtender" v="0"/>
 			<val e="MCSelSubmixInPb" v="0"/>
@@ -2792,7 +2800,7 @@
 		<OscRemote0>
 			<val e="OscSelBus" v="0"/>
 			<val e="OscSelChannel" v="0"/>
-			<val e="OscSelSubmix" v="2"/>
+			<val e="OscSelSubmix" v="34"/>
 			<val e="OSCRemoteInUse" v="1"/>
 			<val e="OSCOwnPort" v="7001"/>
 			<val e="OSCRemotePort" v="9001"/>
