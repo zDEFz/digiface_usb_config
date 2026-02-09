@@ -1,10 +1,10 @@
 <Windows>
 	<Frame0>
 		<Window>
-			<val e="WinPos.left" v="122"/>
-			<val e="WinPos.top" v="51"/>
-			<val e="WinPos.right" v="1066"/>
-			<val e="WinPos.bottom" v="929"/>
+			<val e="WinPos.left" v="391"/>
+			<val e="WinPos.top" v="89"/>
+			<val e="WinPos.right" v="1335"/>
+			<val e="WinPos.bottom" v="967"/>
 			<val e="ScaleType" v="2"/>
 			<val e="FuncType" v="0"/>
 		</Window>
@@ -440,7 +440,7 @@
 		</General>
 		<Inputs>
 			<val e="Stereo 00" v="1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,"/>
-			<val e="Name 00" v="iPad-Pro"/>
+			<val e="Name 00" v="mainrig"/>
 			<val e="Chan Mute 00" v="0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,"/>
 			<val e="Rev Return 00" v="-65.00,-65.00,-65.00,-65.00,-65.00,-65.00,-65.00,-65.00,-65.00,"/>
 			<val e="Chan Level 00" v="1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,"/>
@@ -632,7 +632,7 @@
 			<val e="Remote Controls 07" v="255.00,1023.00,1023.00,1023.00,1023.00,1023.00,1023.00,1023.00,1023.00,"/>
 			<val e="Layout OpenClose 07" v="0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,"/>
 			<val e="Stereo 08" v="1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,"/>
-			<val e="Name 08" v="mainrig"/>
+			<val e="Name 08" v="iPad-Pro"/>
 			<val e="Chan Mute 08" v="0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,"/>
 			<val e="Rev Return 08" v="-65.00,-65.00,-65.00,-65.00,-65.00,-65.00,-65.00,-65.00,-65.00,"/>
 			<val e="Chan Level 08" v="1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,"/>
