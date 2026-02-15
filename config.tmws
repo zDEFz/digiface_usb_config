@@ -1,10 +1,10 @@
 <Windows>
 	<Frame0>
 		<Window>
-			<val e="WinPos.left" v="968"/>
-			<val e="WinPos.top" v="94"/>
-			<val e="WinPos.right" v="1912"/>
-			<val e="WinPos.bottom" v="972"/>
+			<val e="WinPos.left" v="973"/>
+			<val e="WinPos.top" v="95"/>
+			<val e="WinPos.right" v="1917"/>
+			<val e="WinPos.bottom" v="973"/>
 			<val e="ScaleType" v="2"/>
 			<val e="FuncType" v="0"/>
 		</Window>
@@ -120,7 +120,7 @@
 			<val e="OutputState30Snapshots" v="0,0,0,0,0,0,0,0"/>
 			<val e="OutputState32" v="139648"/>
 			<val e="OutputState32Snapshots" v="0,0,0,0,0,0,0,0"/>
-			<val e="RoutingDest" v="4"/>
+			<val e="RoutingDest" v="2"/>
 			<val e="RoutingView" v="0"/>
 			<val e="TrimMode" v="0"/>
 			<val e="LevelFX" v="0"/>
@@ -2739,7 +2739,7 @@
 			<val e="MidiOut" v=""/>
 			<val e="MidiSelBus" v="0"/>
 			<val e="MidiSelChannel" v="0"/>
-			<val e="MidiSelSubmix" v="4"/>
+			<val e="MidiSelSubmix" v="2"/>
 			<val e="MCSupport" v="1"/>
 			<val e="MCExtender" v="0"/>
 			<val e="MCSelSubmixInPb" v="0"/>
@@ -2804,7 +2804,7 @@
 		<OscRemote0>
 			<val e="OscSelBus" v="0"/>
 			<val e="OscSelChannel" v="0"/>
-			<val e="OscSelSubmix" v="4"/>
+			<val e="OscSelSubmix" v="2"/>
 			<val e="OSCRemoteInUse" v="1"/>
 			<val e="OSCOwnPort" v="7001"/>
 			<val e="OSCRemotePort" v="9001"/>
